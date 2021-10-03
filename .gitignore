@@ -1,6 +1,5 @@
 # Project exclude paths
 /.gradle/
-/build/avro/
 /build/kotlin/
 /build/libs/
 /build/tmp/
